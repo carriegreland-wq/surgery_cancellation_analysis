@@ -7,7 +7,7 @@ outcomes.
 
 ## Problem Statement
 Same-day surgery cancellations waste critical OR time, delay patient care, 
-and create significant financial losses for hospitals. With 14 years of OR 
+and create significant financial losses for hospitals. With 11 years of OR 
 scheduling experience, I designed this analysis to quantify what drives 
 cancellations and where interventions will have the greatest impact.
 
